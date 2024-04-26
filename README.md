@@ -28,10 +28,9 @@ the autoplan in the form of a separate Excel file.
 
 Here are the steps to follow:
 
-1. Export the Capi table as an Excel file.
-2. Load the Excel file into the software in Capi_inicijal file.
-3. Run the software.
-4. The software will generate the autoplan and save it as a separate Excel file as auto_plan.
+1. Load the Capi file into the software in Capi_inicijal file.
+2. Run the software.
+3. The software will generate the autoplan and save it as a separate Excel file as auto_plan.
 
 That's it! Your autoplan is now ready for use.
 
